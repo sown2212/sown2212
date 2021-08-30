@@ -1,0 +1,90 @@
+#i1{
+    height: 60px;
+    width: 100px;
+    float: left;
+}
+.menu li, form{
+    list-style-type: none;
+    padding: 10px;
+    overflow: hidden;
+    background-color: white;
+}
+#i1, .menu li{
+    float: left;
+}
+form{
+    float: right;
+}
+#i1, .menu li a, form{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.menu li a:hover {
+    background-color: grey;
+
+}
+form button{
+    background-color: black;
+    color: white;
+}
+.menu{
+    margin-left: 20%;
+    font-weight: bold;
+}
+#i2{
+    width: 100%;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 217, 255);
+}
+.t1 img{
+    width: 450px;
+    height: 300px;
+    float: left;
+}
+.footer{
+    background-color: rgb(0, 255, 242);
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.t1{
+    border: 2px solid black;
+    float: left;
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    border-radius: 5px;
+}
+.t2 img{
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.t2{
+    border: 2px solid black;
+    float: left;
+    width: 40%;
+    margin-left: 6.5%;
+    border-radius: 5px;
+    margin-bottom: 1%;
+}
+.t3 img{
+    width: 260px;
+    height: 260px;
+    float: left;
+}
+.t3{
+    border: 2px solid black;
+    float: left;
+    margin-left: 6%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    border-radius: 5px;
+    text-align: center;
+}

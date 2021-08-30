@@ -1,0 +1,13 @@
+table input{
+    height: 30px;
+    width: 150%;
+    font-size: 15px;
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
+table button{
+    margin-left: 50%;
+}
+table{
+    font-size: 15px;
+}
